@@ -19,7 +19,7 @@ Welcome to my profile! I am the creator of an innovative betting platform that c
 ---
 
 ## Visit Our Site
-[![Visit My Betting Site](https://your-image-url.com/sample-image.jpg)](https://your-site-url.com)
+[![Visit My Betting Site](https://github.com/Tweb45/Tiranga-login/blob/main/Tiranga-Games-Homepage.jpg?raw=true)](https://your-site-url.com)
 
 ---
 
